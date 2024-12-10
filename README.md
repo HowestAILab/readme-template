@@ -8,12 +8,16 @@
 Put a description of the project here.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Table of contents :bookmark_tabs:
+## Table of contents :page_facing_up:
 
 - [Project setup](#project-setup-hammer_and_wrench)
-- [Deployment](#deployment)
-- [Future improvements](#future-improvements)
-- [Possible issues](#possible-issues)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Deployment](#deployment-rocket)
+  - [Prerequisites](#prerequisites-1)
+  - [Deployment](#deployment)
+- [Future improvements](#future-improvements-bulb)
+- [Possible issues](#possible-issues-x)
 
 ## Project setup :hammer_and_wrench:
 
@@ -78,7 +82,7 @@ To deploy this project you will need a working **Docker** installation with **Do
 - [ ] Add more tests
 - [ ] Add more documentation
 
-## Possible issues :warning:
+## Possible issues :x:
 
 | Issue   | Solution                                                 |
 | :------ | :------------------------------------------------------- |
